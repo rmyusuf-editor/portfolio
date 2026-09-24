@@ -273,6 +273,7 @@ function openProject(slug) {
 
 function closeProject() {
   modal.hidden = true;
+  detail.innerHTML = '';
   document.body.classList.remove('modal-open');
 }
 
