@@ -1,5 +1,21 @@
 const PROJECTS = [
   {
+    slug: 'short-form',
+    title: 'SHORT FORM 06',
+    titleId: 'SHORT FORM 06',
+    category: 'SHORT FORM',
+    categoryId: 'SHORT FORM',
+    year: '2026',
+    description:
+      'Dynamic talking head videos for Shorts, TikTok, and Reels that keep viewers hooked.',
+    descriptionId:
+      'Konten Talking Head — Shorts, Tiktok, Reels yang dinamis dan tidak membuat penonton cepat bosan.',
+    cover: 'https://i.ytimg.com/vi/oXYXqaZ-8-8/maxresdefault.jpg',
+    videoId: 'oXYXqaZ-8-8',
+    featured: true,
+    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'TIMOTHY RONALD']
+  },
+  {
     slug: 'showreel',
     title: 'Showreel',
     titleId: 'Showreel',
@@ -45,7 +61,7 @@ const PROJECTS = [
     cover: 'https://i.ytimg.com/vi/VRBRK-fg_7g/maxresdefault.jpg',
     videoId: 'VRBRK-fg_7g',
     featured: true,
-    tags: ['Custom Animated Captions', 'Color Correction', 'SFX', 'Audio Adjustment']
+    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT']
   },
   {
     slug: 'short-form-04',
@@ -55,13 +71,13 @@ const PROJECTS = [
     categoryId: 'Short Form',
     year: '2024',
     description:
-      'A cleaner edit designed for attention retention, clarity, and efficient storytelling.',
+      'A short-form edit shaped around attention, pacing, and voice-led storytelling.',
     descriptionId:
-      'Edit yang lebih bersih dan dirancang untuk mempertahankan perhatian, menjaga kejelasan, serta menyampaikan cerita secara efisien.',
+      'Edit short-form yang dibentuk dengan fokus pada perhatian, ritme, dan storytelling yang dipimpin oleh suara.',
     cover: 'https://i.ytimg.com/vi/jU-MddeAP9E/maxresdefault.jpg',
     videoId: 'jU-MddeAP9E',
     featured: false,
-    tags: ['Auto Captions', 'Color Correction', 'SFX', 'Audio Adjustment']
+    tags: ['AUTO CAPTIONS', 'COLOR CORRECTION', 'SFX', 'BASIC MOTION', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT']
   },
   {
     slug: 'short-form-01',
