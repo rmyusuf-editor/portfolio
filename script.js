@@ -1,6 +1,6 @@
 const PROJECTS = [
   {
-    slug: 'short-form',
+    slug: 'short-form-08',
     title: 'SHORT FORM 08',
     titleId: 'SHORT FORM 08',
     category: 'SHORT FORM',
@@ -16,7 +16,7 @@ const PROJECTS = [
     tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'VISUAL ADJUSTMENT', 'MUSIC ADJUSTMENT', 'VISUAL ADJUSTMENT', 'TEXT ANIMATION TRACKER', 'DAVINCI FUSION']
   },
   {
-    slug: 'short-form',
+    slug: 'short-form-07',
     title: 'SHORT FORM 07',
     titleId: 'SHORT FORM 07',
     category: 'SHORT FORM',
@@ -32,7 +32,7 @@ const PROJECTS = [
     tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'VISUAL ADJUSTMENT', 'MUSIC ADJUSTMENT', 'VISUAL ADJUSTMENT', 'DAVINCI FUSION']
   },
   {
-    slug: 'short-form',
+    slug: 'short-form-06',
     title: 'SHORT FORM 06',
     titleId: 'SHORT FORM 06',
     category: 'SHORT FORM',
