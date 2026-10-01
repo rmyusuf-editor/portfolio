@@ -1,6 +1,38 @@
 const PROJECTS = [
   {
     slug: 'short-form',
+    title: 'SHORT FORM 08',
+    titleId: 'SHORT FORM 08',
+    category: 'SHORT FORM',
+    categoryId: 'SHORT FORM',
+    year: '2026',
+    description:
+      'High-retention vertical videos for TikTok, Reels, and Shorts. This variation focuses on fast-paced editing and engaging visual transitions to maintain high viewer attention.',
+    descriptionId:
+      'Video vertikal dengan tingkat retensi tinggi untuk TikTok, Reels, dan Shorts. Variasi ini berfokus pada ritme editing yang cepat dan transisi visual yang menarik untuk menjaga perhatian penonton.',
+    cover: 'https://i.ytimg.com/vi/_CyfA-khKoU/maxresdefault.jpg',
+    videoId: '_CyfA-khKoU',
+    featured: true,
+    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'VISUAL ADJUSTMENT', 'MUSIC ADJUSTMENT', 'VISUAL ADJUSTMENT', 'TEXT ANIMATION TRACKER', 'DAVINCI FUSION']
+  },
+  {
+    slug: 'short-form',
+    title: 'SHORT FORM 07',
+    titleId: 'SHORT FORM 07',
+    category: 'SHORT FORM',
+    categoryId: 'SHORT FORM',
+    year: '2026',
+    description:
+      '"Dynamic talking head videos crafted for Shorts, TikTok, and Reels—engineered to maximize retention and keep viewers hooked from the first second."',
+    descriptionId:
+      'Konten clip yang dibuat lebih menarik, dinamis dan tidak membosankan dengan visual efek, pengaturan audio hingga motion yang pas.',
+    cover: 'https://i.ytimg.com/vi/iSHm5H1o-GI/maxresdefault.jpg',
+    videoId: 'iSHm5H1o-GI',
+    featured: true,
+    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'VISUAL ADJUSTMENT', 'MUSIC ADJUSTMENT', 'VISUAL ADJUSTMENT', 'DAVINCI FUSION']
+  },
+  {
+    slug: 'short-form',
     title: 'SHORT FORM 06',
     titleId: 'SHORT FORM 06',
     category: 'SHORT FORM',
@@ -13,7 +45,7 @@ const PROJECTS = [
     cover: 'https://i.ytimg.com/vi/oXYXqaZ-8-8/maxresdefault.jpg',
     videoId: 'oXYXqaZ-8-8',
     featured: true,
-    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'TIMOTHY RONALD']
+    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'VISUAL ADJUSTMENT', 'TIMOTHY RONALD']
   },
   {
     slug: 'showreel',
@@ -28,7 +60,7 @@ const PROJECTS = [
       'Reel portofolio singkat yang berfokus pada ritme, suasana, dan edit berbasis pesan di berbagai format serta gaya visual.',
     cover: 'https://i.ytimg.com/vi/CDPaxVHcudI/maxresdefault.jpg',
     videoId: 'CDPaxVHcudI',
-    featured: true,
+    featured: false,
     tags: ['Showreel', 'Short Form', 'Long Form', 'Gaming', 'Documentary']
   },
   {
@@ -44,7 +76,7 @@ const PROJECTS = [
       'Edit berorientasi ritme yang dibangun dengan fokus pada kejelasan narasi, gerakan yang terkontrol, dan desain suara yang terarah.',
     cover: 'https://i.ytimg.com/vi/yNqr0wm0kcA/maxresdefault.jpg',
     videoId: 'yNqr0wm0kcA',
-    featured: true,
+    featured: false,
     tags: ['Color Grading', 'Beat Transition', 'Sound Effect', 'Animated Text']
   },
   {
@@ -60,8 +92,8 @@ const PROJECTS = [
       'Edit short-form yang dibentuk dengan fokus pada perhatian, ritme, dan storytelling yang dipimpin oleh suara.',
     cover: 'https://i.ytimg.com/vi/VRBRK-fg_7g/maxresdefault.jpg',
     videoId: 'VRBRK-fg_7g',
-    featured: true,
-    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT']
+    featured: false,
+    tags: ['CUSTOM ANIMATED CAPTIONS', 'COLOR CORRECTION', 'SFX', 'MOTION', 'AUDIO ADJUSTMENT', 'VISUAL ADJUSTMENT']
   },
   {
     slug: 'short-form-04',
@@ -77,7 +109,7 @@ const PROJECTS = [
     cover: 'https://i.ytimg.com/vi/jU-MddeAP9E/maxresdefault.jpg',
     videoId: 'jU-MddeAP9E',
     featured: false,
-    tags: ['AUTO CAPTIONS', 'COLOR CORRECTION', 'SFX', 'BASIC MOTION', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT', 'AUDIO ADJUSTMENT']
+    tags: ['AUTO CAPTIONS', 'COLOR CORRECTION', 'SFX', 'BASIC MOTION', 'AUDIO ADJUSTMENT', 'VISUAL ADJUSTMENT']
   },
   {
     slug: 'short-form-01',
